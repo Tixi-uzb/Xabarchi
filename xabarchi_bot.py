@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levellevel)s - %(message)
 logger = logging.getLogger(__name__)
 
 # Telegram bot tokeni
-API_TOKEN = '8014328569:AAE9rw2hNwsZ3fb1VCqOsC0tZHYDSERepuc'
+API_TOKEN = 'bu yerga token'
 CHANNEL_USERNAMES = ['@ellikqala_YI_agentligi', '@asos001']  # Asosiy kanallar ro'yxatini bu yerda kiritamiz
 TARGET_GROUPS_AND_CHANNELS = ['@asos77' '@tozabog_yoshlari', '@Iftixoryoshlarii', '@Saxtiyon_yoshlari', '@Qilichinoq_city1', '@chopon_mfy', '@Koiot_yoshlari', '@dostlik-ofy-yoshlari', '@sharq_yulduzi_yoshlari', '@oq_oltin_yoshlari', '@navbaxor_mfy_yoshlar', '@guldursun_yoshlari', '@Burgutqala_yoshlari', '@gulistonofyyoshlari', '@Qizilqumofyyoshlari', '@akchakul_ofy_yoshlari', '@abaymfjjaslari', '@qiqqizobod_yoshlar', '@ellikqalaOfy_Yoshlari', '@AlisherNavoiy_yoshlari', '@ayozqala77', '@iqbolmfyyoshlari', '@kichik_guldursun', '@yangi_uzyosh', '@ibnsinoyoshlari', '@Paxtachimahallayoshlari', '@sarabiy_yoshlari', '@guruh3', 'https://t.me/joinchat/XXXXXXX', 'https://t.me/joinchat/XXXXXXX']  # Faqat @asos77 guruh username'ini kiritamiz
 GROUP_USERNAME = '@bustonmfy1'  # Bu yerda tavsiya qilingan guruh username'ini kiritamiz
